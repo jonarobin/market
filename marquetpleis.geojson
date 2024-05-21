@@ -1,0 +1,4647 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4622317,
+          -34.5571626
+        ]
+      },
+      "properties": {
+        "Nombre": "Abinadab_Uñas",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/utyPkhM.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4358278,
+          -34.6006292
+        ]
+      },
+      "properties": {
+        "Nombre": "Academia Bayres Estética",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/J0Jr3OU.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4393878,
+          -34.5996988
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Momento Femenino",
+        "Rubro": [
+          "Uñas",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/Ij1KqXy.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4617731,
+          -34.576046
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Spa - Belgrano",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/MATNGpv.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4366211,
+          -34.5862006
+        ]
+      },
+      "properties": {
+        "Nombre": "Ambar Spa - Palermo",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/MATNGpv.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4468662,
+          -34.5708852
+        ]
+      },
+      "properties": {
+        "Nombre": "Andrea Beauty Studio Spa de uñas, cejas y pestañas",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/p0E2wzb.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4500642,
+          -34.5677757
+        ]
+      },
+      "properties": {
+        "Nombre": "Balboa",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/oliCHKI.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4465178,
+          -34.5586595
+        ]
+      },
+      "properties": {
+        "Nombre": "Bodylife by Pampita",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/VCqatk6.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4607027,
+          -34.557933
+        ]
+      },
+      "properties": {
+        "Nombre": "ByH Estética",
+        "Rubro": [
+          "Uñas",
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/MFsn1rl.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Alcorta",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación",
+          "EyeBeauty",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/7KMpKEl.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4104412,
+          -34.5880019
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Alto Palermo",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/7KMpKEl.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3878626,
+          -34.5969608
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Barrio Norte",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/7KMpKEl.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4535856,
+          -34.5628647
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/7KMpKEl.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4878536,
+          -34.5464842
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Dot",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/7KMpKEl.jpg",
+        "Barrio": "Saavedra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4965717,
+          -34.4873188
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Martínez",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/7KMpKEl.jpg",
+        "Barrio": "Martínez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3840901,
+          -34.5891244
+        ]
+      },
+      "properties": {
+        "Nombre": "Cerini - Patio Bullrich",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/7KMpKEl.jpg",
+        "Barrio": "Retiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Cheek To Cheek",
+        "Rubro": [
+          "Peluquería",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/M46OM9h.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4102608,
+          -34.5925829
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Barrio Norte",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/QyuHJHj.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4597567,
+          -34.5623167
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Belgrano",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/QyuHJHj.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.441701,
+          -34.623173
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Caballito",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/QyuHJHj.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4363825,
+          -34.5675936
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Cañitas",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/QyuHJHj.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.409288,
+          -34.5812699
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires - Palermo",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/QyuHJHj.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.618922,
+          -34.4074064
+        ]
+      },
+      "properties": {
+        "Nombre": "Coco Buenos Aires (Peluquería Vanity Projects) - Nordelta",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/QyuHJHj.jpg",
+        "Barrio": "Nordelta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4365757,
+          -34.5794901
+        ]
+      },
+      "properties": {
+        "Nombre": "Cristian Rey",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/sP5askl.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3929064,
+          -34.7428121
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Banfield",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Banfield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4436416,
+          -34.6234374
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Caballito",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6452437,
+          -34.6554584
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Castelar",
+        "Rubro": [
+          "Uñas",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Castelar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.9165089,
+          -34.4520117
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Champagnat",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Pilar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4555072,
+          -34.5654085
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Ciudad de La Paz",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4654439,
+          -34.6302014
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Flores",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Flores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4668095,
+          -34.5636735
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Freire",
+        "Rubro": [
+          "Uñas",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4157334,
+          -34.5876024
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Julián Alvarez",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4522668,
+          -34.5595947
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Juramento",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4346495,
+          -34.5655187
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Las Cañitas",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4896996,
+          -34.4830422
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Martínez",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Martínez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6524757,
+          -34.4008097
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Nordelta",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Nordelta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4926897,
+          -34.5066853
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Olivos",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6922995,
+          -34.6271305
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Parque Leloir",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Ituzaingó"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6120808,
+          -34.4270376
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Remeros",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Tigre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4959461,
+          -34.6053725
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Villa del Parque",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Villa del Parque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7144787,
+          -34.3912372
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Villa Nueva",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Benavídez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "d-uñas - Villa Urquiza",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/bbaUCSq.jpg",
+        "Barrio": "Villa Urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4441116,
+          -34.5706309
+        ]
+      },
+      "properties": {
+        "Nombre": "Dèpilier",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/vf8adLA.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4168822,
+          -34.6186414
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Almagro",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Almagro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4527351,
+          -34.5629223
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Belgrano",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4089349,
+          -34.5808696
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Botánico",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4299801,
+          -34.6159962
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Caballito",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.439115,
+          -34.5649362
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Cañitas",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6418523,
+          -34.6482143
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Castelar",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Castelar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3826987,
+          -34.6029635
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Centro",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "San Nicolás"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3971121,
+          -34.5989369
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Facultades",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.45932,
+          -34.6272212
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Flores",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Flores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4017774,
+          -34.7638421
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Lomas de Zamora",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Lomas de Zamora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4489091,
+          -34.5555736
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Nuñez",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Nuñez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.492758,
+          -34.514581
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Olivos",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.412382,
+          -34.591933
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Palermo",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8423025,
+          -34.4418414
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Pilar",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "La Lonja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2549569,
+          -34.7216478
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Quilmes",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Quilmes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5639828,
+          -34.6489356
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Ramos",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Ramos Mejía"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3964729,
+          -34.5872879
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Recoleta",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5109935,
+          -34.4694256
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - San Isidro",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "San Isidro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4269888,
+          -34.5905637
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Soho",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4402192,
+          -34.6002497
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Villa Crespo",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4972137,
+          -34.5986469
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Villa del Parque",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Villa del Parque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4835657,
+          -34.5752873
+        ]
+      },
+      "properties": {
+        "Nombre": "Depilife - Villa Urquiza",
+        "Rubro": [
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/bUh9WvQ.jpg",
+        "Barrio": "Villa Urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4565994,
+          -34.5631856
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Belgrano",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4323395,
+          -34.625937
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Caballito",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5032134,
+          -34.8602544
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Canning",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Canning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4924218,
+          -34.5921064
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Devoto",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Devoto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4032033,
+          -34.7655363
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Lomas de Zamora",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Lomas de Zamora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6520858,
+          -34.4014784
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Nordelta",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Nordelta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4594429,
+          -34.5453841
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Nuñez",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Núñez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4807985,
+          -34.5036863
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Olivos",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6949654,
+          -34.6245091
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Parque Leloir",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Ituzaingó"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8975715,
+          -34.4470938
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Pilar",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Pilar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.363012,
+          -34.609528
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Puerto Madero",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Puerto Madero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5642898,
+          -34.6464406
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Ramos Mejía",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Ramos Mejía"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3899324,
+          -34.5885257
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Recoleta",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5458373,
+          -34.494542
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - San Isidro",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "San Isidro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3895125,
+          -34.600098
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Tribunales",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Tribunales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4367726,
+          -34.6006757
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Villa Crespo",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4801025,
+          -34.5663876
+        ]
+      },
+      "properties": {
+        "Nombre": "Dr Beauty - Villa Urquiza",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/uRiFDn3.jpg",
+        "Barrio": "Villa Urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4257849,
+          -34.5802867
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética BE ",
+        "Rubro": [
+          "Estética Corporal",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/06rcOtC.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4330084,
+          -34.6160456
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita - Caballito",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/lFHba8X.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4842788,
+          -34.5786926
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita - Villa Urquiza",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/lFHba8X.jpg",
+        "Barrio": "Villa Urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4623595,
+          -34.5569114
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita Belgrano",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/lFHba8X.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4210487,
+          -34.5836834
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Bella Vita Palermo",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/lFHba8X.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4314923,
+          -34.6200485
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Martínez - Caballito",
+        "Rubro": [
+          "Medicina Estética",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/S2hkdvK.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4332759,
+          -34.5772964
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética Viso ",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/e6CIiyu.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4466365,
+          -34.6042849
+        ]
+      },
+      "properties": {
+        "Nombre": "Estética y Masajes Bambú",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/IgJYY0S.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4292811,
+          -34.576802
+        ]
+      },
+      "properties": {
+        "Nombre": "Estudio Laurette",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/Z2BnYza.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4085837,
+          -34.5825088
+        ]
+      },
+      "properties": {
+        "Nombre": "Frida Estética Femenina",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/HcIdvzY.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4402579,
+          -34.6227128
+        ]
+      },
+      "properties": {
+        "Nombre": "Gallito & Cia - Peluqueria Infantil - Caballito",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/w3EAJW8.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4346407,
+          -34.5806306
+        ]
+      },
+      "properties": {
+        "Nombre": "Gallito & Cia - Peluqueria Infantil - Palermo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/w3EAJW8.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.461854,
+          -34.5557897
+        ]
+      },
+      "properties": {
+        "Nombre": "GEA ESTÉTICA Y SALUD",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/dOTi834.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4296772,
+          -34.5999381
+        ]
+      },
+      "properties": {
+        "Nombre": "Gella Nails",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/FEkSdvq.jpg",
+        "Barrio": "Almagro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4409205,
+          -34.5976338
+        ]
+      },
+      "properties": {
+        "Nombre": "Gloria Rueda Estética",
+        "Rubro": [
+          "Estética Corporal",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/MAsJuoc.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44089,
+          -34.5639456
+        ]
+      },
+      "properties": {
+        "Nombre": "Glow Peluqueria - Cañitas",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/0bfIiAK.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4809124,
+          -34.5771072
+        ]
+      },
+      "properties": {
+        "Nombre": "Glow Peluqueria - Juramento",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/0bfIiAK.jpg",
+        "Barrio": "Villa Urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8247818,
+          -34.4388812
+        ]
+      },
+      "properties": {
+        "Nombre": "Go Nails - Lonja",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/y6QAZVl.jpg",
+        "Barrio": "La Lonja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5249248,
+          -34.505927
+        ]
+      },
+      "properties": {
+        "Nombre": "Go Nails - Martínez",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/y6QAZVl.jpg",
+        "Barrio": "Martínez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.7296288,
+          -34.4537287
+        ]
+      },
+      "properties": {
+        "Nombre": "Go Nails - Pilar",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/y6QAZVl.jpg",
+        "Barrio": "Pilar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4186065,
+          -34.5912322
+        ]
+      },
+      "properties": {
+        "Nombre": "Grismi Peluquería",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/IFGZxYR.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4191127,
+          -34.5873681
+        ]
+      },
+      "properties": {
+        "Nombre": "Hair Experience Peluquería",
+        "Rubro": [
+          "Peluquería",
+          "EyeBeauty",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/gnY7mPs.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4348862,
+          -34.568322
+        ]
+      },
+      "properties": {
+        "Nombre": "Hawai Solarium",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/2C7YiiG.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4024806,
+          -34.5923115
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Barrio Norte",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/trMHdbX.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4525725,
+          -34.5637565
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Belgrano",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/trMHdbX.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4165459,
+          -34.5882928
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Palermo",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/trMHdbX.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.387007,
+          -34.596523
+        ]
+      },
+      "properties": {
+        "Nombre": "ÍOBELLA - Recoleta",
+        "Rubro": [
+          "Medicina Estética",
+          "Depilación",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/trMHdbX.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4158311,
+          -34.5864724
+        ]
+      },
+      "properties": {
+        "Nombre": "Jessicaleo Peluquerías",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/accujb3.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4338254,
+          -34.5883425
+        ]
+      },
+      "properties": {
+        "Nombre": "JOSHA peluquería",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/Ux8Kyw4.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Juicy Make Up",
+        "Rubro": [
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/zn1b8T3.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4166893,
+          -34.5858915
+        ]
+      },
+      "properties": {
+        "Nombre": "Julieta Beauty Studio",
+        "Rubro": [
+          "SkinCare",
+          "Masajes",
+          "EyeBeauty",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/1Gjmsev.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4369014,
+          -34.601283
+        ]
+      },
+      "properties": {
+        "Nombre": "Julio Pan",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/AiGlNhB.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4320244,
+          -34.5912456
+        ]
+      },
+      "properties": {
+        "Nombre": "La Maison Belleza",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/Lw1ZoDS.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4550149,
+          -34.570593
+        ]
+      },
+      "properties": {
+        "Nombre": "Leo Usach Hair & Makeup Lab",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/yu1UMuX.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.437149,
+          -34.61736
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Acoyte",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/71NbLjf.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.387876,
+          -34.595604
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Av. Santa Fe",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/71NbLjf.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4601283,
+          -34.5761109
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Elcano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/71NbLjf.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3936255,
+          -34.5935694
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Juncal",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/71NbLjf.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4435391,
+          -34.6266725
+        ]
+      },
+      "properties": {
+        "Nombre": "LLONGUERAS ARGENTINA - Pedro Goyena",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/71NbLjf.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4303218,
+          -34.5713329
+        ]
+      },
+      "properties": {
+        "Nombre": "Loly Peluquería & Estética",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/bYzZdLG.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4322035,
+          -34.571427
+        ]
+      },
+      "properties": {
+        "Nombre": "Luxury Bronze",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/1zOib8j.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.398725,
+          -34.5955159
+        ]
+      },
+      "properties": {
+        "Nombre": "M Studio",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/mrUDPZN.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4334946,
+          -34.5877428
+        ]
+      },
+      "properties": {
+        "Nombre": "Maidana Peluqueria",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/CERw8Zp.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4149952,
+          -34.5956906
+        ]
+      },
+      "properties": {
+        "Nombre": "MALA Peluquería",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/1M49X7U.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Marquesa Spa de Belleza",
+        "Rubro": [
+          "Uñas",
+          "SkinCare",
+          "Masajes"
+        ],
+        "Foto": "https://i.imgur.com/YPN2QXG.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      },
+      "properties": {
+        "Nombre": "Mas Plena",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/eVN2Rc4.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.414421,
+          -34.589771
+        ]
+      },
+      "properties": {
+        "Nombre": "Matias Rivara Peluqueria",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/ZyIxxJK.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4223924,
+          -34.5894989
+        ]
+      },
+      "properties": {
+        "Nombre": "Miguel Ramirez Peluqueria",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/wh9kcqe.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4263642,
+          -34.5834347
+        ]
+      },
+      "properties": {
+        "Nombre": "Milena Marin Beauty Studio",
+        "Rubro": [
+          "EyeBeauty",
+          "Uñas",
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/Z3B97Ce.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4552986,
+          -34.6051684
+        ]
+      },
+      "properties": {
+        "Nombre": "MISI Centro de Estética",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/9RdTyds.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4341191,
+          -34.5996641
+        ]
+      },
+      "properties": {
+        "Nombre": "Nancy Bonito Estética Integral",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/CuKd0ss.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4572796,
+          -34.5597862
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Belgrano",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4419817,
+          -34.620575
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Caballito",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4925973,
+          -34.8691086
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Canning",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Canning"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4020201,
+          -34.7650545
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Las Lomitas",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Lomas de Zamora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6527664,
+          -34.4008443
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Nordelta",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Nordelta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4618177,
+          -34.5431323
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Nuñez",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Nuñez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4792702,
+          -34.5077523
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Olivos",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4260078,
+          -34.5847907
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Palermo",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.8049735,
+          -34.4380196
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Pilar",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Pilar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5633649,
+          -34.6437897
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Ramos Mejía",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Ramos Mejía"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3931305,
+          -34.5956893
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Recoleta",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5120436,
+          -34.4686756
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - San Isidro",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "San Isidro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4829611,
+          -34.5751452
+        ]
+      },
+      "properties": {
+        "Nombre": "Natural Bronze - Urquiza",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/bkW04xb.jpg",
+        "Barrio": "Villa Urquiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4389523,
+          -34.5846064
+        ]
+      },
+      "properties": {
+        "Nombre": "New Life Dermoestética",
+        "Rubro": [
+          "Depilación",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/7oYvqgB.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4537673,
+          -34.5592758
+        ]
+      },
+      "properties": {
+        "Nombre": "New Studio Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Depilación",
+          "Barbería",
+          "EyeBeauty",
+          "Masajes",
+          "MakeUp"
+        ],
+        "Foto": "https://i.imgur.com/JEwkSHX.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4292942,
+          -34.6151627
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Almagro",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Almagro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4159837,
+          -34.6099575
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Almagro II",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Almagro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4614666,
+          -34.5649516
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Belgrano 1",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4561754,
+          -34.5544449
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Belgrano 2",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6554567,
+          -34.6386711
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Castelar",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Castelar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4524869,
+          -34.5825581
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Chacarita",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Chacarita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.459444,
+          -34.5727889
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Colegiales",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.401969,
+          -34.7643004
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Lomas de Zamora",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Lomas de Zamora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.474943,
+          -34.581364
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Los Incas",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Parque Chas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.499254,
+          -34.4880025
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Martínez",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Martínez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4193421,
+          -34.5850764
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Palermo",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.2613236,
+          -34.7185885
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Quilmes",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Quilmes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3957291,
+          -34.5899414
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Recoleta",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5082868,
+          -34.4707732
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - San Isidro",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "San Isidro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4391144,
+          -34.5986895
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Villa Crespo",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.488439,
+          -34.6034057
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Villa del Parque",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Villa del Parque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5033487,
+          -34.6002407
+        ]
+      },
+      "properties": {
+        "Nombre": "Nifty - Villa Devoto",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/rhfdl8I.jpg",
+        "Barrio": "Devoto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4544578,
+          -34.5674491
+        ]
+      },
+      "properties": {
+        "Nombre": "Nuevo Módulo 2",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/JwErljU.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.422006,
+          -34.5826511
+        ]
+      },
+      "properties": {
+        "Nombre": "Only Esthetic",
+        "Rubro": [
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/v7PEjfv.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4100005,
+          -34.589287
+        ]
+      },
+      "properties": {
+        "Nombre": "Palermo Medicina Estética",
+        "Rubro": [
+          "Medicina Estética"
+        ],
+        "Foto": "https://i.imgur.com/6ezHktt.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4351488,
+          -34.5828586
+        ]
+      },
+      "properties": {
+        "Nombre": "Pelo’s House",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/rnen5wH.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4377306,
+          -34.5834542
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería Filo",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/pAvY9uS.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4528419,
+          -34.5829409
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería Il Figaro",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/zGdUxm2.jpg",
+        "Barrio": "Chacarita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4594581,
+          -34.560122
+        ]
+      },
+      "properties": {
+        "Nombre": "Peluquería y Barbería Montesco",
+        "Rubro": [
+          "Barbería",
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/mhhF7Qx.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4206827,
+          -34.6030381
+        ]
+      },
+      "properties": {
+        "Nombre": "Penny Nail",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/joFhDHu.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4601034,
+          -34.5656962
+        ]
+      },
+      "properties": {
+        "Nombre": "Prana Peluquería De Diseño - Crámer",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/nPj3Gkr.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4189185,
+          -34.5891022
+        ]
+      },
+      "properties": {
+        "Nombre": "Prana Peluquería De Diseño - Palermo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/nPj3Gkr.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4396787,
+          -34.5770735
+        ]
+      },
+      "properties": {
+        "Nombre": "Puro Glamour",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/8m1QBJH.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4300033,
+          -34.5944893
+        ]
+      },
+      "properties": {
+        "Nombre": "Quiero Mis Cejas",
+        "Rubro": [
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/IysXTh8.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4304982,
+          -34.6171287
+        ]
+      },
+      "properties": {
+        "Nombre": "Roho Hair Boutique - Caballito",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/37oPdOb.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.442893,
+          -34.5787433
+        ]
+      },
+      "properties": {
+        "Nombre": "Roho Hair Boutique - Palermo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/37oPdOb.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432667,
+          -34.582187
+        ]
+      },
+      "properties": {
+        "Nombre": "Rústica Peluquería Barbería",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/Q0oFipi.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4612317,
+          -34.5589608
+        ]
+      },
+      "properties": {
+        "Nombre": "Sakura Beauty Salon",
+        "Rubro": [
+          "Cejas",
+          "Pestañas"
+        ],
+        "Foto": "https://i.imgur.com/V7Wi1Gb.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4120526,
+          -34.5911013
+        ]
+      },
+      "properties": {
+        "Nombre": "Salón de Belleza Omar Silvero",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/uLV7rwQ.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3945124,
+          -34.5894785
+        ]
+      },
+      "properties": {
+        "Nombre": "Sanders",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/S8hX44N.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4501816,
+          -34.5789325
+        ]
+      },
+      "properties": {
+        "Nombre": "Santino - Colegiales",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/dGubJKM.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4285624,
+          -34.5776525
+        ]
+      },
+      "properties": {
+        "Nombre": "Santino - Palermo",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Depilación"
+        ],
+        "Foto": "https://i.imgur.com/dGubJKM.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4602672,
+          -34.5768076
+        ]
+      },
+      "properties": {
+        "Nombre": "Sarkirian",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/r3efZux.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4172373,
+          -34.589766
+        ]
+      },
+      "properties": {
+        "Nombre": "Sensoria Estética & Spa ",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal",
+          "Depilación",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/3jhVBiG.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.460337,
+          -34.5741062
+        ]
+      },
+      "properties": {
+        "Nombre": "sergio.delriocanosa",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/JohfaYE.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4503234,
+          -34.5501163
+        ]
+      },
+      "properties": {
+        "Nombre": "Shining - Belleza Saludable",
+        "Rubro": [
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/i2XJRYp.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4492923,
+          -34.5753487
+        ]
+      },
+      "properties": {
+        "Nombre": "Soylashista",
+        "Rubro": [
+          "Uñas",
+          "Depilación",
+          "SkinCare",
+          "Estética Corporal",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/FiucOM7.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4392999,
+          -34.5987922
+        ]
+      },
+      "properties": {
+        "Nombre": "Spa & Estética CL",
+        "Rubro": [
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/uZp8Zfb.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4579835,
+          -34.6039561
+        ]
+      },
+      "properties": {
+        "Nombre": "Spa Beauty Kd Angel's",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/nJBZEVX.jpg",
+        "Barrio": "Villa Crespo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4461186,
+          -34.5753339
+        ]
+      },
+      "properties": {
+        "Nombre": "Studio AngieP",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/izqETKq.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4533751,
+          -34.6140272
+        ]
+      },
+      "properties": {
+        "Nombre": "Tan & Go",
+        "Rubro": [
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/H6TFkOC.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4639943,
+          -34.5544721
+        ]
+      },
+      "properties": {
+        "Nombre": "Tara Glamour",
+        "Rubro": [
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/0VFguIN.jpg",
+        "Barrio": "Núñez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3878396,
+          -34.5972835
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Barrio Norte",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.458205,
+          -34.5716332
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Belgrano",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4290956,
+          -34.6255402
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Caballito",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4539104,
+          -34.6290182
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Flores",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Flores"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.430521,
+          -34.5726811
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Las Cañitas",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4004306,
+          -34.7569141
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Lomas Estación",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Lomas de Zamora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4021765,
+          -34.7640349
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Lomitas",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Lomas de Zamora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3733715,
+          -34.6030592
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Microcentro",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "San Nicolás"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4558155,
+          -34.6122955
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Plaza Irlanda",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3611094,
+          -34.6174827
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Puerto Madero",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Puerto Madero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3883938,
+          -34.5887708
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Recoleta",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.378517,
+          -34.5967119
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Retiro",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Retiro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4710511,
+          -34.5281058
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Vicente Lopez",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Vicente Lopez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4941142,
+          -34.6046392
+        ]
+      },
+      "properties": {
+        "Nombre": "The Barber Job - Villa del Parque",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/2XLE9GN.jpg",
+        "Barrio": "Villa del Parque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4489975,
+          -34.5814341
+        ]
+      },
+      "properties": {
+        "Nombre": "The Brow Army by Liz Sanchez",
+        "Rubro": [
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/5ZNEdt1.jpg",
+        "Barrio": "Chacarita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4376843,
+          -34.567625
+        ]
+      },
+      "properties": {
+        "Nombre": "Vāltik - El Solar Shopping",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/Jv24n2W.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4117462,
+          -34.5868387
+        ]
+      },
+      "properties": {
+        "Nombre": "Vāltik - Vidt",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/Jv24n2W.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4063942,
+          -34.5893787
+        ]
+      },
+      "properties": {
+        "Nombre": "Verdini Peluquería - Recoleta",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/EFDqHQE.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4531429,
+          -34.5623696
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Belgrano",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4166844,
+          -34.6227237
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Boedo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Boedo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4369776,
+          -34.6179592
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Caballito",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.504322,
+          -34.856248
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Canning",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Ezeiza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4348895,
+          -34.5670563
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Cañitas",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.441943,
+          -34.608423
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Centenario",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Caballito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5084103,
+          -34.6039153
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Devoto",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Devoto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3752252,
+          -34.5993002
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Galerías Pacífico",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "San Nicolás"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5402131,
+          -38.0083397
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Mar del Plata",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Mar del Plata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5437628,
+          -38.0123927
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - MDQ Paseo Aldrey",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Mar del Plata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4785796,
+          -34.5094648
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Olivos",
+        "Rubro": [
+          "Peluquería",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Olivos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4137468,
+          -34.5852018
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Palermo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.6153511,
+          -34.485358
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Palmas de Pilar",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Pilar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4383113,
+          -34.6347766
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Parque Chacabuco",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Parque Chacabuco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4267667,
+          -34.5742714
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Portal Palermo",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3629846,
+          -34.6170045
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Puerto Madero",
+        "Rubro": [
+          "Peluquería",
+          "Uñas",
+          "Barbería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Puerto Madero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5648212,
+          -34.6460449
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Ramos Mejía",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Ramos Mejía"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3840578,
+          -34.5958018
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Recoleta",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4109897,
+          -34.6038802
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Shoppping Abasto",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Balvanera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.694666,
+          -34.4625598
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Tortugas Open Mall",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Tortuguitas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5231694,
+          -34.5086035
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Unicenter",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Martínez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4803004,
+          -34.4900042
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Unicenter Barber Shop",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Martínez"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.5544845,
+          -34.5508912
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Villa Ballester",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Villa Ballester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4968647,
+          -34.6020809
+        ]
+      },
+      "properties": {
+        "Nombre": "ViPeluquería's (Leo Paparella) - Villa del Parque",
+        "Rubro": [
+          "Peluquería"
+        ],
+        "Foto": "https://i.imgur.com/LZWo7Xx.jpg",
+        "Barrio": "Villa del Parque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4703827,
+          -34.5476164
+        ]
+      },
+      "properties": {
+        "Nombre": "Viva Le Glam Studio - Saavedra",
+        "Rubro": [
+          "Uñas",
+          "EyeBeauty",
+          "Depilación",
+          "Masajes",
+          "SkinCare",
+          "Estética Corporal",
+          "Bronceado"
+        ],
+        "Foto": "https://i.imgur.com/KEdlzzo.jpg",
+        "Barrio": "Saavedra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3627969,
+          -34.6159069
+        ]
+      },
+      "properties": {
+        "Nombre": "Wings Nails",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/gsHDtj7.jpg",
+        "Barrio": "Puerto Madero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4484379,
+          -34.5738182
+        ]
+      },
+      "properties": {
+        "Nombre": "YS Estética Integral",
+        "Rubro": [
+          "EyeBeauty",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/OxRoZOm.jpg",
+        "Barrio": "Colegiales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4573576,
+          -34.5642992
+        ]
+      },
+      "properties": {
+        "Nombre": "YuseBeauty Spa de miradas",
+        "Rubro": [
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/Su8SfRU.jpg",
+        "Barrio": "Belgrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4326542,
+          -34.5701403
+        ]
+      },
+      "properties": {
+        "Nombre": "Zentara",
+        "Rubro": [
+          "Uñas",
+          "SkinCare",
+          "Estética Corporal"
+        ],
+        "Foto": "https://i.imgur.com/STHaJBH.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3927049,
+          -34.5906455
+        ]
+      },
+      "properties": {
+        "Nombre": "Minerva Beauty Bar",
+        "Rubro": [
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/zstAZII.jpg",
+        "Barrio": "Recoleta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4458057,
+          -34.5898899
+        ]
+      },
+      "properties": {
+        "Nombre": "Nicole Maquillando Studio",
+        "Rubro": [
+          "MakeUp",
+          "EyeBeauty"
+        ],
+        "Foto": "https://i.imgur.com/VsLld5a.jpg",
+        "Barrio": "Chacarita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4344567,
+          -34.5756099
+        ]
+      },
+      "properties": {
+        "Nombre": "Salón Bardó",
+        "Rubro": [
+          "Peluquería",
+          "Uñas"
+        ],
+        "Foto": "https://i.imgur.com/zdiAz4r.jpg",
+        "Barrio": "Palermo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.4306897,
+          -34.5908087
+        ]
+      },
+      "properties": {
+        "Nombre": "Piel Studio",
+        "Rubro": [
+          "SkinCare"
+        ],
+        "Foto": "https://i.imgur.com/2WMYXub.jpg",
+        "Barrio": "Palermo"
+      }
+    }
+  ]
+}

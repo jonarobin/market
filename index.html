@@ -1,0 +1,138 @@
+<html>
+
+<head>
+  <title>Marketplace de Bienestar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css">
+  <link rel="stylesheet" type="text/css" href="./styles.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-extra-markers/1.2.2/css/leaflet.extra-markers.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-search/dist/leaflet-search.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css">
+  <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body data-theme="light">
+  <main id="app" class="container is-fluid">
+    <div class="columns">
+      <nav id="navbar">
+        <input type="text" id="searchBox" placeholder="Buscar..." v-model="search" />
+      </nav>
+    </div>
+    <div class="columns" id="marketplace-container">
+      <div id="cardContainer" class="column">
+        <div
+          class="industries gallery"
+          data-flickity='{ "cellAlign": "left", "contain": true, "freeScroll": true, "prevNextButtons": false, "pageDots": false }'
+        >
+          <button
+            class="industry-button gallery-cell"
+            v-for="i in industries"
+            :key="i"
+            :class="{active: i === industrySelected}"
+            @click="setIndustry(i)"
+          >
+            {{i}}
+          </button>
+        </div>
+        <div class="loader-container" v-if="isLoading">
+          <p class="is-size-2">Cargando...</p>
+          <div class="loader"></div>
+        </div>
+        <div class="card" v-for="org in filter(organizations)" :key="org.ownerId">
+          <a @click="openOrgModal(org)" target="_blank">
+            <div class="info-container">
+              <img
+                :src="org.image ? org.image : 'https://agenddo.com/wp-content/uploads/2023/10/345247364_2426742697485909_5761603837870901539_n-150x150.jpg'"
+                :alt="org.name"
+              />
+              <div>
+                <h2>{{org.name}}</h2>
+                <p>{{org.location}}</p>
+              </div>
+            </div>
+            <!-- <div class="services-container">
+              <div class="service-container" v-for="service in org.services">
+                <span class="service-name">{{service.name}}</span>
+                <span class="service-price">${{service.price}}</span>
+              </div>
+            </div> -->
+            <p hidden="">Peluqueria, SkinCare, Uñas</p>
+          </a>
+        </div>
+      </div>
+      <div class="column">
+        <div class="open-map-container">
+          <button class="open-map" @click="toggleMapMobile">
+            <i class="fa fa-map-marker" style="margin-right: 5px;"></i>
+            {{mapMobile ? 'Cerrar mapa' : 'Ver mapa'}}
+          </button>
+        </div>
+        <div
+          id="map"
+          :class="{'mobile-open': mapMobile}"
+          class="leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom"
+        ></div>
+      </div>
+    </div>
+    <div class="modal is-active" style="z-index: 2000;" v-if="modalOpen">
+      <div class="modal-background"></div>
+      <div class="modal-content">
+        <div class="card p-2">
+          <div class="is-flex is-justify-content-space-between">
+            <button class="is-large modal-action" aria-label="close" @click="closeModal">
+              <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"></path></svg>
+            </button>
+            <button class="is-large modal-action" aria-label="share" @click="contactWsp(selectedOrg)">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M18.1714 10.4668L18.6405 10.9863L18.6405 10.9863L18.1714 10.4668ZM18.1835 9.75214L18.67 9.24881L18.67 9.24881L18.1835 9.75214ZM11.674 16.334L11.2048 15.8145L11.674 16.334ZM10.8571 15.9711H10.1571H10.8571ZM10.8571 13.7839H11.5571V13.7839L10.8571 13.7839ZM10.8571 13.2728L11.5571 13.2728L11.5571 12.7103L11.0078 12.5892L10.8571 13.2728ZM8.34338 13.11L8.356 13.8099H8.356L8.34338 13.11ZM5.44601 13.5219L5.18603 12.872L5.18603 12.872L5.44601 13.5219ZM4.58484 13.9332L4.24113 13.3234L4.20906 13.3415L4.17906 13.3628L4.58484 13.9332ZM3.03148 15.1691L2.5083 14.704L2.5083 14.704L3.03148 15.1691ZM2.53796 15.8291L1.94002 15.4652L1.94002 15.4652L2.53796 15.8291ZM2.4304 16.0203L3.05402 16.3383L3.05403 16.3383L2.4304 16.0203ZM2.40662 16.0688L1.77243 15.7724L1.77037 15.7769L2.40662 16.0688ZM2.40162 16.0797L1.76536 15.7878L1.76308 15.7929L2.40162 16.0797ZM2.401 16.0811L1.76238 15.7942L1.75807 15.8042L2.401 16.0811ZM2.40076 16.0816L1.75782 15.8048L1.75731 15.806L2.40076 16.0816ZM2.39817 16.0877L3.02427 16.4007L3.0335 16.3823L3.04162 16.3633L2.39817 16.0877ZM2.39495 16.0941L3.02104 16.4072L3.02106 16.4071L2.39495 16.0941ZM2.2786 16.2518L1.82259 15.7207H1.82259L2.2786 16.2518ZM1.99156 16.3146L1.77937 16.9817L1.77937 16.9817L1.99156 16.3146ZM1.80705 16.16L2.40868 15.8021L2.40867 15.8021L1.80705 16.16ZM1.74047 15.9975L1.06713 16.1888L1.06713 16.1888L1.74047 15.9975ZM1.67088 15.0109L2.37036 15.038L1.67088 15.0109ZM2.45243 11.616L3.09764 11.8875H3.09764L2.45243 11.616ZM2.6713 11.133L3.30072 11.4393H3.30072L2.6713 11.133ZM5.2478 8.01661L4.83957 7.44797L4.83957 7.44797L5.2478 8.01661ZM5.77853 7.66807L6.13823 8.26858L5.77853 7.66807ZM10.8571 6.44547L10.8463 7.14539L11.5571 7.15637V6.44547H10.8571ZM11.2959 3.33694L11.3727 4.03272H11.3727L11.2959 3.33694ZM11.6861 3.47236L12.1725 2.96904L12.1725 2.96903L11.6861 3.47236ZM11.6879 3.47416L11.2015 3.97749L11.2015 3.97749L11.6879 3.47416ZM18.6405 10.9863C19.1515 10.5249 19.165 9.72728 18.67 9.24881L17.697 10.2555C17.6092 10.1706 17.6116 10.0291 17.7022 9.94725L18.6405 10.9863ZM12.1431 16.8536L18.6405 10.9863L17.7022 9.94725L11.2048 15.8145L12.1431 16.8536ZM10.1571 15.9711C10.1571 17.0015 11.3784 17.5441 12.1431 16.8536L11.2048 15.8145C11.3405 15.692 11.5571 15.7883 11.5571 15.9711H10.1571ZM10.1571 13.7839L10.1571 15.9711H11.5571L11.5571 13.7839H10.1571ZM10.1571 13.2728L10.1571 13.7839L11.5571 13.7839L11.5571 13.2728L10.1571 13.2728ZM8.356 13.8099C9.38519 13.7913 10.3017 13.8671 10.7064 13.9564L11.0078 12.5892C10.4458 12.4653 9.40269 12.3908 8.33076 12.4101L8.356 13.8099ZM5.70598 14.1718C6.25263 13.9532 7.26466 13.8295 8.356 13.8099L8.33076 12.4101C7.2203 12.4301 5.98665 12.5517 5.18603 12.872L5.70598 14.1718ZM4.92856 14.543C5.16046 14.4123 5.41878 14.2867 5.70598 14.1718L5.18603 12.872C4.84081 13.0101 4.52657 13.1625 4.24113 13.3234L4.92856 14.543ZM3.55467 15.6341C3.61152 15.5701 3.77017 15.4267 4.04132 15.2116C4.29937 15.0068 4.62655 14.7626 4.99063 14.5036L4.17906 13.3628C3.80098 13.6318 3.45328 13.891 3.17111 14.1149C2.90202 14.3284 2.65507 14.5389 2.5083 14.704L3.55467 15.6341ZM3.13589 16.1931C3.21681 16.0602 3.35188 15.8622 3.55467 15.6341L2.5083 14.704C2.24363 15.0017 2.05958 15.2688 1.94002 15.4652L3.13589 16.1931ZM3.05403 16.3383C3.06876 16.3094 3.09548 16.2595 3.13589 16.1931L1.94002 15.4652C1.88022 15.5634 1.83647 15.6441 1.80676 15.7024L3.05403 16.3383ZM3.04079 16.3651C3.04233 16.3618 3.04667 16.3527 3.05402 16.3383L1.80677 15.7024C1.7919 15.7315 1.78054 15.7551 1.77244 15.7724L3.04079 16.3651ZM3.03787 16.3715L3.04286 16.3607L1.77037 15.7769L1.76538 15.7878L3.03787 16.3715ZM3.03955 16.3679L3.04017 16.3665L1.76308 15.7929L1.76246 15.7942L3.03955 16.3679ZM3.04369 16.3585L3.04394 16.3579L1.75807 15.8042L1.75782 15.8048L3.04369 16.3585ZM3.04162 16.3633L3.0442 16.3573L1.75731 15.806L1.75472 15.812L3.04162 16.3633ZM3.02106 16.4071L3.02427 16.4007L1.77207 15.7746L1.76885 15.781L3.02106 16.4071ZM2.7346 16.7828C2.89162 16.648 2.97833 16.4926 3.02104 16.4072L1.76887 15.781C1.76643 15.7859 1.76818 15.7816 1.77471 15.7723C1.78123 15.763 1.79633 15.7432 1.82259 15.7207L2.7346 16.7828ZM1.77937 16.9817C2.20901 17.1183 2.55985 16.9329 2.7346 16.7828L1.82259 15.7207C1.85481 15.693 1.90076 15.663 1.96432 15.6447C2.03495 15.6243 2.12038 15.621 2.20376 15.6475L1.77937 16.9817ZM1.20542 16.5178C1.26401 16.6163 1.43405 16.8718 1.77937 16.9817L2.20376 15.6475C2.34525 15.6925 2.40311 15.7928 2.40868 15.8021L1.20542 16.5178ZM1.06713 16.1888C1.09134 16.274 1.13237 16.395 1.20542 16.5178L2.40867 15.8021C2.41251 15.8086 2.41504 15.8135 2.4165 15.8166C2.41725 15.8181 2.41777 15.8193 2.4181 15.82C2.41843 15.8208 2.41859 15.8212 2.41859 15.8212C2.4186 15.8212 2.41847 15.8209 2.41822 15.8202C2.41798 15.8195 2.41763 15.8185 2.4172 15.8172C2.41632 15.8146 2.41517 15.8109 2.41381 15.8061L1.06713 16.1888ZM0.971403 14.9839C0.954235 15.4286 0.975709 15.8671 1.06713 16.1888L2.41381 15.8061C2.38386 15.7008 2.35483 15.4402 2.37036 15.038L0.971403 14.9839ZM1.80723 11.3445C1.23128 12.7133 1.00748 14.0495 0.971403 14.9839L2.37036 15.038C2.40059 14.255 2.59316 13.0864 3.09764 11.8875L1.80723 11.3445ZM2.04188 10.8267C1.95769 10.9997 1.87959 11.1726 1.80723 11.3445L3.09764 11.8875C3.16045 11.7383 3.22805 11.5886 3.30072 11.4393L2.04188 10.8267ZM4.83957 7.44797C3.52178 8.39402 2.63079 9.61659 2.04188 10.8267L3.30072 11.4393C3.80985 10.3932 4.56375 9.3694 5.65603 8.58525L4.83957 7.44797ZM5.41882 7.06756C5.21765 7.18806 5.02465 7.3151 4.83957 7.44797L5.65603 8.58525C5.80995 8.47475 5.97059 8.36899 6.13823 8.26858L5.41882 7.06756ZM10.8679 5.74555C8.62681 5.71091 6.83321 6.22035 5.41882 7.06756L6.13823 8.26858C7.30555 7.56936 8.83721 7.11433 10.8463 7.14539L10.8679 5.74555ZM10.1571 3.82402V6.44547H11.5571V3.82402H10.1571ZM11.2192 2.64116C10.6751 2.70117 10.1571 3.1534 10.1571 3.82402H11.5571C11.5571 3.87395 11.5351 3.93028 11.4956 3.97158C11.4612 4.00752 11.4183 4.02769 11.3727 4.03272L11.2192 2.64116ZM12.1725 2.96903C11.9009 2.70651 11.5492 2.60476 11.2192 2.64116L11.3727 4.03272C11.3445 4.03583 11.3123 4.03345 11.2794 4.02259C11.2453 4.01136 11.2181 3.99353 11.1996 3.9757L12.1725 2.96903ZM12.1744 2.97083L12.1725 2.96904L11.1996 3.97569L11.2015 3.97749L12.1744 2.97083ZM18.67 9.24881L12.1744 2.97083L11.2015 3.97749L17.697 10.2555L18.67 9.24881Z" fill="#2F3A24"></path></svg>
+            </button>
+          </div>
+          <div class="is-flex is-justify-content-center">
+            <img
+              decoding="async"
+              width="150"
+              height="150"
+              :src="selectedOrg.image ? selectedOrg.image : 'https://agenddo.com/wp-content/uploads/2023/10/345247364_2426742697485909_5761603837870901539_n-150x150.jpg'"
+              class="modal-img"
+              :alt="selectedOrg.name"
+            >
+          </div>
+          <div class="is-flex is-flex-direction-column is-flex-wrap-wrap is-align-items-center has-text-centered">
+            <p class="modal-org-title">{{selectedOrg.name}}</p>
+            <p class="modal-org-arg"><img decoding="async" class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f4cd.svg" alt="📍"> Buenos Aires, Argentina</p>
+            <a class="modal-org-location">{{selectedOrg.location}}</a>
+            <a
+              class="modal-org-contact"
+              @click="contactWsp(selectedOrg)"
+            >
+              Contactar ahora
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <!-- Firebase -->
+  <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-storage.js"></script>
+  <!-- Maps -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-extra-markers/1.2.2/js/leaflet.extra-markers.min.js"></script>
+  <script src="https://unpkg.com/leaflet-search/dist/leaflet-search.min.js"></script>
+  <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+  <!-- Flickity -->
+  <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+  <!-- Vue -->
+  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+  <!-- Application -->
+  <script type="module" src="./app.js"></script>
+  <!-- prettier-ignore -->
+  <script>(g => { var h, a, k, p = "The Google Maps JavaScript API", c = "google", l = "importLibrary", q = "__ib__", m = document, b = window; b = b[c] || (b[c] = {}); var d = b.maps || (b.maps = {}), r = new Set, e = new URLSearchParams, u = () => h || (h = new Promise(async (f, n) => { await (a = m.createElement("script")); e.set("libraries", [...r] + ""); for (k in g) e.set(k.replace(/[A-Z]/g, t => "_" + t[0].toLowerCase()), g[k]); e.set("callback", c + ".maps." + q); a.src = `https://maps.${c}apis.com/maps/api/js?` + e; d[q] = f; a.onerror = () => h = n(Error(p + " could not load.")); a.nonce = m.querySelector("script[nonce]")?.nonce || ""; m.head.append(a) })); d[l] ? console.warn(p + " only loads once. Ignoring:", g) : d[l] = (f, ...n) => r.add(f) && u().then(() => d[l](f, ...n)) })
+      ({ key: "AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg", v: "weekly" });</script>
+</body>
+
+</html>

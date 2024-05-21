@@ -1,0 +1,338 @@
+/*
+ * Always set the map height explicitly to define the size of the div element
+ * that contains the map.
+ */
+ #map {
+  height: 100%;
+}
+
+/*
+ * Optional: Makes the sample page fill the window.
+ */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+#marketplace-container {
+  height: calc(100vh - 70px);
+  margin-top: 70px;
+}
+
+#navbar {
+  position: fixed; /* Esto fija el navbar en la parte superior de la página */
+  top: 0;
+  left: 0;
+  width: 100%; /* Ocupa el ancho completo de la pantalla */
+  background: white; /* Color de fondo, puedes cambiarlo según tu diseño */
+  padding: 8px 20px; /* Espacio alrededor de la barra de búsqueda */
+  z-index: 1000; /* Asegura que el navbar esté por encima de otros contenidos */
+}
+
+#searchBox {
+  padding: 16px 20px; /* Padding más generoso para un look moderno */
+  width: 70%; /* Anchura más adaptable al tamaño de la pantalla, máximo 600px */
+  max-width: 600px;
+  font-size: 16px; /* Tamaño de fuente adecuado para la legibilidad */
+  border: 1px solid #ddd; /* Borde sutil */
+  border-radius: 24px; /* Bordes redondeados para un look suave */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra ligera para profundidad */
+  outline: none; /* Remueve el contorno al hacer focus */
+  transition: border-color 0.2s; /* Transición suave al cambiar de estado */
+  margin: 0 18px; /* Espaciado alrededor de la tarjeta */
+}
+
+#searchBox:focus {
+  border-color: #aaa; /* Cambia el color del borde al hacer focus */
+}
+
+#cardContainer {
+  overflow-y: auto;
+}
+
+#cardContainer .card {
+  overflow: hidden;
+  box-shadow: 0px 0px 30px 0px #f5f3f6;
+  margin: 24px 0; /* Espaciado alrededor de la tarjeta */
+  border-radius: 24px;
+  border: 0.5px solid #f2f2f2;
+  text-decoration: none; /* No subrayar enlaces */
+}
+
+#cardContainer .card h2,
+#cardContainer .card p {
+  margin-top: 4px; /* Espaciado superior de 4px */
+  margin-bottom: 4px; /* Espaciado inferior de 4px */
+}
+
+#cardContainer .card a {
+  color: inherit; /* Hereda el color de texto del elemento padre */
+  text-decoration: none; /* Elimina el subrayado del enlace */
+}
+
+#cardContainer .card a:hover,
+#cardContainer .card a:active {
+  text-decoration: none; /* Evita que el texto se subraye al pasar el ratón o hacer clic */
+}
+
+h2 {
+  color: #000;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 14px;
+  line-height: normal;
+  letter-spacing: 0.5%; /* Espaciado entre letras */
+  font-weight: 500;
+}
+
+p {
+  color: #717171;
+  text-overflow: ellipsis;
+  -webkit-text-stroke-width: 0.09000000357627869;
+  -webkit-text-stroke-color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 250;
+  line-height: normal;
+  letter-spacing: -0.26px;
+  letter-spacing: 0.5%; /* Espaciado entre letras */
+}
+
+.info-container{
+   padding: 16px 20px 8px 20px;
+   display: flex;
+   align-items: center;
+   gap: 10px;
+}
+
+.info-container img {
+  width: 60px;
+  height: 60px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #F2F2F7A8;
+  border-radius: 100px;
+}
+
+.service-container {
+  background-color: #ffff; /* Color de fondo ligero para cada servicio */
+  border-top: 1px solid #ddd; /* Borde sutil */
+  padding: 16px; 
+  margin: 4px 0; 
+  text-overflow: ellipsis;
+  -webkit-text-stroke-width: 0.09000000357627869;
+  -webkit-text-stroke-color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 250;
+  line-height: normal;
+  letter-spacing: -0.26px;
+  letter-spacing: 0.5%; /* Espaciado entre letras */
+}
+
+.service-name {
+ color: #717171;
+  text-overflow: ellipsis;
+  -webkit-text-stroke-width: 0.09000000357627869;
+  -webkit-text-stroke-color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 250;
+  line-height: normal;
+  letter-spacing: -0.26px;
+  letter-spacing: 0.5%; /* Espaciado entre letras */
+}
+
+.service-price {
+  display: block; /* Makes the price appear below the service name */
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 5px;
+   color: #000;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 14px;
+  line-height: normal;
+  letter-spacing: 0.5%; /* Espaciado entre letras */
+  font-weight: 400;
+}
+
+.loader-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.loader {
+  width: 80px;
+  height: 80px;
+}
+
+.map-popup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.map-popup img {
+  border-radius: 100%;
+}
+
+.map-popup a {
+  padding: 10px;
+  background-color: #000;
+  color: #fff !important;
+  text-decoration: none;
+  border-radius: 24px;
+  font-weight: 600;
+}
+
+.map-popup p {
+  margin: 5px 0 !important;
+}
+
+.map-popup p.address {
+  font-size: 12px;
+}
+
+.custom-marker {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  background-color: transparent;
+}
+
+.marker-content {
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.marker-image {
+  width: 60px !important;
+  height: 60px;
+  border-radius: 50%;
+  mask-image: radial-gradient(circle, white 100%, transparent 100%);
+  mask-composite: intersect;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.modal-action {
+  width: 42px;
+  height: 42px;
+  border-style: solid;
+  border-color: #A7A2A269;
+  border-radius: 50%;
+}
+
+.modal-img {
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #F8F7F4;
+  border-radius: 2000px;
+}
+
+.emoji {
+  display: inline !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 1em !important;
+  width: 1em !important;
+  margin: 0 0.07em !important;
+  vertical-align: -0.1em !important;
+  background: none !important;
+  padding: 0 !important;
+}
+
+.modal-org-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #000;
+  margin-bottom: 5px;
+}
+
+.modal-org-arg {
+  font-weight: 400;
+  color: #000;
+  font-size: 16px;
+}
+
+.modal-org-contact {
+  font-weight: 600;
+  fill: #FFFFFF;
+  color: #FFFFFF;
+  background-color: #222222;
+  border-radius: 30px 30px 30px 30px;
+  padding: 16px 16px 16px 16px;
+  margin: 18px 0;
+  width: 50%;
+}
+
+.industries {
+  margin-top: 20px;
+}
+
+.industry-button {
+  text-align: center;
+  border-style: solid;
+  border-width: 2px 2px 2px 2px;
+  border-color: #F5F5F5;
+  background-color: #FFFFFF;
+  border-radius: 38px;
+  padding: 8px 18px;
+  width: auto;
+  flex: 1;
+}
+
+.industry-button.active {
+  background-color: #000;
+  color: #fff;
+}
+
+.open-map-container {
+  display: none;
+  width: calc(100% - 64px);
+  bottom: 20px;
+  position: absolute;
+  text-align: center;
+  z-index: 2000;
+}
+.open-map {
+  background-color: #4793DB;
+  color: #fff;
+  border-radius: 99px;
+  padding: 14px 24px;
+}
+
+@media all and (max-width: 530px) {
+  .modal {
+    justify-content: flex-end !important;
+  }
+  .modal .card {
+    border-radius: 0.75rem 0.75rem 0 0 !important;
+  }
+  .modal-background {
+    background-color: #0000006b !important;
+  }
+  #map {
+    display: none;
+  }
+  #map.mobile-open {
+    display: block;
+    position: absolute !important;
+    top: 0;
+    bottom: 0;
+    width: calc(100% - 64px);
+  }
+  .open-map-container {
+    display: block;
+  }
+}
