@@ -148,7 +148,7 @@ createApp({
         this.isLoading = false;
       });
     } else {
-      const geojsonUrl = "https://raw.githubusercontent.com/jonarobin/map/main/geojson/marquetpleis.geojson";
+      const geojsonUrl = "https://raw.githubusercontent.com/jonarobin/market/main/marquetpleis.geojson";
       fetch(geojsonUrl)
         .then(res => res.json())
         .then(data => {
